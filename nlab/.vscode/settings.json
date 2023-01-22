@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "general.h": "c",
+        "stack.h": "c",
+        "specific.h": "c"
+    }
+}

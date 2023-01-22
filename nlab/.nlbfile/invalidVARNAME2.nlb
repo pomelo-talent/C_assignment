@@ -1,0 +1,4 @@
+BEGIN {
+   SET $a := 5 ;
+   PRINT $I
+}

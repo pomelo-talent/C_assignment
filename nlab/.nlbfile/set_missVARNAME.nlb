@@ -1,0 +1,4 @@
+BEGIN {
+   SET 1 := 5 ;
+   PRINT 1
+}

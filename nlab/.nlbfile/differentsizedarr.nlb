@@ -1,0 +1,7 @@
+BEGIN {
+
+      ONES 6 5 $A
+      ONES 5 6 $B
+      SET $C := $A $B B-OR ;
+   }
+}
